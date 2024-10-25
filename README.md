@@ -19,3 +19,4 @@
 -Git rebase: Reorganiza los commits aplicándolos sobre una nueva base, lo que es útil para mantener un historial de commits más lineal y ordenado.
 
 -Git merge: Combina el contenido de diferentes ramas en una única rama, integrando los cambios realizados en ambas.
+![Captura de pantalla 2024-10-24 180804](https://github.com/user-attachments/assets/f1af4b32-2f54-4b57-b942-0ca6bbc86bd0)
